@@ -1,7 +1,6 @@
 package Generics;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Emethod {
     public static void main(String[] args) {

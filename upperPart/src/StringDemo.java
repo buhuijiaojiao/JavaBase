@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.SplittableRandom;
 import java.util.StringJoiner;
 
 public class StringDemo {

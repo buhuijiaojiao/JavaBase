@@ -1,9 +1,7 @@
 package Map.Traverse;
 
-import java.util.*;
-import java.util.function.BiConsumer;
-import java.util.function.Consumer;
-import java.util.Map.Entry;
+import java.util.HashMap;
+import java.util.Map;
 
 public class Test1 {
     public static void main(String[] args) {

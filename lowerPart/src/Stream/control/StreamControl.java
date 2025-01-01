@@ -1,9 +1,7 @@
 package Stream.control;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
-import java.util.function.Predicate;
 import java.util.stream.Stream;
 
 public class StreamControl {

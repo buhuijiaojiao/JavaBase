@@ -2,8 +2,6 @@ package Map.Case.c2;
 
 
 import java.util.*;
-import java.util.function.BiConsumer;
-import java.util.function.Consumer;
 
 public class Test {
     public static void main(String[] args) {

@@ -5,7 +5,6 @@ import java.text.SimpleDateFormat;
 import java.time.LocalDate;
 import java.time.temporal.ChronoUnit;
 import java.util.Date;
-import java.util.Locale;
 
 public class Brirthday {
     public static void main(String[] args) throws ParseException {

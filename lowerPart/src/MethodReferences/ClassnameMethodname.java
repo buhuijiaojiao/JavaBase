@@ -2,7 +2,6 @@ package MethodReferences;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.function.Function;
 
 public class ClassnameMethodname {
     public static void main(String[] args) {

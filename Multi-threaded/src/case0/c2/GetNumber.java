@@ -1,7 +1,5 @@
 package case0.c2;
 
-import java.util.Random;
-
 public class GetNumber extends Thread{
     @Override
     public void run() {

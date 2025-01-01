@@ -1,6 +1,5 @@
 package create.c3;
 
-import java.beans.Introspector;
 import java.util.concurrent.Callable;
 
 public class MyCallable implements Callable<Integer> {

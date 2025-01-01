@@ -1,8 +1,6 @@
 package Set.HashSet;
 
 import java.util.HashSet;
-import java.util.Iterator;
-import java.util.function.Consumer;
 
 public class Test {
     public static void main(String[] args) {

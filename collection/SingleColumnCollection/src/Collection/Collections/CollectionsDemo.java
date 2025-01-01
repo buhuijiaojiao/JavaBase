@@ -1,7 +1,8 @@
 package Collection.Collections;
 
-import java.sql.SQLOutput;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
 
 public class CollectionsDemo {
     public static void main(String[] args) {

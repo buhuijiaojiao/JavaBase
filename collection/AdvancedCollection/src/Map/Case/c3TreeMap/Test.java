@@ -1,6 +1,5 @@
 package Map.Case.c3TreeMap;
 
-import java.util.Comparator;
 import java.util.TreeMap;
 
 public class Test {

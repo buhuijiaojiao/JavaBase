@@ -1,8 +1,8 @@
 package Case.AutomaticRolCall;
 
-import org.w3c.dom.ls.LSOutput;
-
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Random;
 
 public class Test2 {
     public static void main(String[] args) {
