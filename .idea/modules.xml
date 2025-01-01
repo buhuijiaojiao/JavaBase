@@ -10,6 +10,10 @@
       <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/lowerPart/lowerPart.iml" filepath="$PROJECT_DIR$/lowerPart/lowerPart.iml" />
       <module fileurl="file://$PROJECT_DIR$/myio/myio.iml" filepath="$PROJECT_DIR$/myio/myio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop-Polymorphism/oop-Polymorphism.iml" filepath="$PROJECT_DIR$/oop/oop-Polymorphism/oop-Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop-extends/oop-extends.iml" filepath="$PROJECT_DIR$/oop/oop-extends/oop-extends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop-interface/oop-interface.iml" filepath="$PROJECT_DIR$/oop/oop-interface/oop-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/upperPart/upperPart.iml" filepath="$PROJECT_DIR$/upperPart/upperPart.iml" />
     </modules>
   </component>
