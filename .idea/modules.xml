@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/collection/AdvancedCollection/AdvancedCollection.iml" filepath="$PROJECT_DIR$/collection/AdvancedCollection/AdvancedCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Api/Api.iml" filepath="$PROJECT_DIR$/Api/Api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaBase.iml" filepath="$PROJECT_DIR$/.idea/JavaBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multi-threaded/Multi-threaded.iml" filepath="$PROJECT_DIR$/Multi-threaded/Multi-threaded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/SingleColumnCollection/SingleColumnCollection.iml" filepath="$PROJECT_DIR$/collection/SingleColumnCollection/SingleColumnCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lowerPart/lowerPart.iml" filepath="$PROJECT_DIR$/lowerPart/lowerPart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myio/myio.iml" filepath="$PROJECT_DIR$/myio/myio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/upperPart/upperPart.iml" filepath="$PROJECT_DIR$/upperPart/upperPart.iml" />
+    </modules>
+  </component>
+</project>
