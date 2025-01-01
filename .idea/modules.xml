@@ -10,7 +10,6 @@
       <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
       <module fileurl="file://$PROJECT_DIR$/lowerPart/lowerPart.iml" filepath="$PROJECT_DIR$/lowerPart/lowerPart.iml" />
       <module fileurl="file://$PROJECT_DIR$/myio/myio.iml" filepath="$PROJECT_DIR$/myio/myio.iml" />
-      <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
       <module fileurl="file://$PROJECT_DIR$/upperPart/upperPart.iml" filepath="$PROJECT_DIR$/upperPart/upperPart.iml" />
     </modules>
   </component>
