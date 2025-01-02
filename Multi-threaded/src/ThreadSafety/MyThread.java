@@ -24,6 +24,7 @@ public class MyThread extends Thread {
 
             //买票原语(同步代码块 不被打断)
             if (syMethod()) break;
+            //买票原语(同步方法)
         }
     }
 
